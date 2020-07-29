@@ -1,1 +1,11 @@
 /** Insert custom CSS for any additional content in the welcome page **/
+.welcome {
+    .header {
+        .tab-container {
+	        display: none;
+	    }
+	}
+    .welcome-page-button {
+        background-color: rgb(211,47,47);
+    }
+}
